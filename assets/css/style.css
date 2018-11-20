@@ -1,0 +1,79 @@
+
+
+body {
+    background-image: url("../images/mother-nature.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.everything {
+    margin: 60px auto;
+    background-color: rgba(255, 255, 255, 0.7);
+    border: 2px solid gray;
+    height: 600px;
+    width: 60%;
+    text-align: center;
+}
+
+img {
+    max-height: 250px;
+    width: auto;
+    
+}
+
+#answerblock {
+    text-align: center;
+
+}
+
+#questionblock {
+    text-align: center;
+    font-weight: bold;
+}
+
+#reset {
+    visibility: visible;
+}
+
+.heading {
+    color: black;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 45px;
+    text-align: center;
+
+}
+
+p {
+    margin: 10px;
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+h2, h4 {
+    margin: 30px;
+    font-weight: bold;
+}
+
+.answerchoices {
+	border: 1px solid black;
+    border-radius: 5%;
+	width: 40%;
+    color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 20px;
+    background-color: white;
+
+} 
+
+
+ .btn {
+    height: 60px;
+    width: 150px;
+    font-size: 25px;
+    position: relative;
+    bottom: -150px;
+}
+
